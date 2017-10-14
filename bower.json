@@ -1,0 +1,20 @@
+{
+  "name": "learn_node_1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Leonardo Ribeiro <leoribeiro.dsgn@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/leodsgn/simple_node",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
